@@ -12,5 +12,6 @@ Building a fat JAR artifact
 9. Double click ```HelloWorld_main``` compile output
 10. In the left pane, drag all list entries into your JAR file
 11. Final result should look like this:
+![Artifact window](https://github.com/rpp0/gradle-kotlin-example/blob/master/artifact-window.png)
 12. Go to ```Build > Build Artifacts``` to build the artifact.
 13. Inside the ```out/artifacts/hello_world``` folder, execute ```java -jar hello-world.jar```
